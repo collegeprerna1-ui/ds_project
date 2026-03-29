@@ -1,0 +1,10 @@
+package Practicals_ds;
+
+public class Digit_Extraction {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
